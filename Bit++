@@ -1,0 +1,11 @@
+lines=int(input())
+x=0
+for i in range(lines):
+    statements=input()
+    if statements=="++X" or statements=="X++":
+        x=x+1
+    elif statements=="--X" or statements=="X--":
+        x=x-1   
+        
+        
+print(x)
