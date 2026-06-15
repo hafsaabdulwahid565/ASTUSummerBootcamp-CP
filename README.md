@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0832-flipping-an-image](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
@@ -33,12 +34,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,4 +51,12 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
