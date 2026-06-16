@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0463-island-perimeter](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -59,6 +60,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
 |  |
@@ -76,4 +78,12 @@
 |  |
 | ------- |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
