@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -48,6 +50,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -56,11 +59,13 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
