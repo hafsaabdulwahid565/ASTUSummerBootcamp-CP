@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -99,12 +101,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
@@ -114,6 +118,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Depth-First Search
 |  |
