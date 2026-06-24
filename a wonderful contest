@@ -1,0 +1,16 @@
+import math
+x=int(input())
+for i in range(x):
+    n=input()
+    y=list(map(int,input().split()))
+    z=[]
+    for ai in y:
+        v=100//ai
+        z.append(v)
+    score=z[0]
+    for _ in z[1:]:
+        score=math.gcd(score,_)
+    if score==1:
+        print("Yes")
+    else:
+        print("No")
