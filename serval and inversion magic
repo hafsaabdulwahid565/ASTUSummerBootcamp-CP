@@ -1,0 +1,28 @@
+t = int(input())
+BEFORE = 0
+INSIDE = 1
+AFTER = 2
+for _ in range(t):
+    n = int(input())
+    s = input()
+
+    phase = BEFORE
+    valid = True
+
+    for i in range(n // 2):
+        left = s[i]
+        right = s[n - 1 - i]
+
+        if left == right:
+            if phase == INSIDE:
+                phase = AFTER
+        else:
+            if phase == BEFORE:
+                phase = INSIDE
+            elif phase == AFTER:
+                valid = False
+                break
+    if valid:
+        print("Yes")
+    else:
+        print("No")
