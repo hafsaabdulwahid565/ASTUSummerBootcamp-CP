@@ -1,0 +1,21 @@
+t = int(input())
+for _ in range(t):
+    n, m, k = map(int, input().split())
+    a = "".join(sorted(input().strip()))
+    b = "".join(sorted(input().strip())) 
+    c = "" 
+    streak_a = 0
+    streak_b = 0
+    while a and b:
+        if (a[0] < b[0] and streak_a < k) or streak_b == k:
+            c += a[0]       
+            a = a[1:]       
+            streak_a += 1  
+            streak_b = 0    
+        else:
+            c += b[0]      
+            b = b[1:]       
+            streak_b += 1   
+            streak_a = 0    
+            
+    print(c)
