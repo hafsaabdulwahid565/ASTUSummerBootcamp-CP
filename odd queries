@@ -1,0 +1,14 @@
+t=int(input())
+for i in range(t):
+    n,q=map(int,input().split())
+    x= list(map(int, input().split()) )
+    for _ in range(q):
+        l, r, k = map(int, input().split()) 
+        orig_x=x.copy()
+        for i in range(l-1,r):
+             orig_x[i]=k
+        if sum(orig_x) %2!=0:
+            print("YES")
+        else:
+            print("NO")
+        
