@@ -1,0 +1,16 @@
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    x=list(map(int,input().split()))
+    y=sorted(x)
+    if n==1:
+        print(-1)
+        continue
+    for i in range(n):
+        if x[i]==y[i]:
+            if i==n-1:
+                y[i],y[i-1]=y[i-1],y[i]
+            else:
+                y[i],y[i+1]=y[i+1],y[i]
+    
+    print(*y)
