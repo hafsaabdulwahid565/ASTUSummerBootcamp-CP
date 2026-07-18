@@ -1,0 +1,20 @@
+n=int(input())
+s=input()
+x=["0"]*10
+for i in range(len(s)):
+    if s[i]=="L":
+        for j in range(10):
+            if x[j]=="0":
+                x[j]="1"
+                break
+    elif s[i]=="R":
+        for j in range(9,-1,-1):
+            if x[j]=="0":
+                x[j]="1"
+                break
+    else:
+        r_no=int(s[i])
+        x[r_no]="0"
+        
+    
+print("".join(x))
