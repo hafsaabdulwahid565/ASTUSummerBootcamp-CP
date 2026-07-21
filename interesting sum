@@ -1,0 +1,10 @@
+t= int(input())
+for _ in range(t):
+    n=int(input())
+    x=list(map(int,input().split()))
+    x.sort()
+    max_beauty=0
+    beauty=x[-1]-x[0]
+    left_o=x[-2]-x[1]
+    max_beauty=beauty+left_o
+    print(max_beauty)
