@@ -1,0 +1,15 @@
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    x=list(map(int,input().split()))
+    y=[]
+    z=sorted(x)
+    y1=z[-1]
+    y2=z[-2]
+    for i in range(len(x)):
+        if x[i]==y1:
+            y.append(x[i]-y2)
+        else:
+            y.append(x[i]-y1)
+
+    print(*y)
