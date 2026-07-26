@@ -1,0 +1,20 @@
+t = int(input())
+for _ in range(t):
+    n = int(input())
+    s1 = input().split()
+    s2 = input().split()
+    s3 = input().split()
+    set_1=set(s1)
+    set_2=set(s2)
+    set_3=set(s3)
+    s12 = (set_1 & set_2) - set_3
+    s13 = (set_1 & set_3) - set_2
+    s23 = (set_2 & set_3) - set_1
+    s11 = set_1 - set_2 - set_3
+    s22 = set_2 - set_1 - set_3
+    s33 = set_3 - set_1 - set_2
+    count = [0, 0, 0]
+    count[0] = len(s11) * 3 + len(s12) + len(s13)
+    count[1] = len(s22) * 3 + len(s12) + len(s23)
+    count[2] = len(s33) * 3 + len(s13) + len(s23)
+    print(*count)
