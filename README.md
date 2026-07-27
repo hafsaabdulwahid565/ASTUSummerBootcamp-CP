@@ -41,6 +41,7 @@
 | [0049-group-anagrams](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 | [0349-intersection-of-two-arrays](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -50,6 +51,7 @@
 | [0076-minimum-window-substring](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/3110-score-of-a-string) |
@@ -69,6 +71,7 @@
 | [0344-reverse-string](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -136,6 +139,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
