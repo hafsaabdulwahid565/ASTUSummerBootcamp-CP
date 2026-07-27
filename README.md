@@ -10,6 +10,7 @@
 | [0036-valid-sudoku](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0209-minimum-size-subarray-sum](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
@@ -150,4 +153,8 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
