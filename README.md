@@ -27,6 +27,7 @@
 | [2545-sort-the-students-by-their-kth-score](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3206-alternating-groups-i](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/3206-alternating-groups-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
 ## Math
@@ -156,6 +157,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [3206-alternating-groups-i](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Counting
 |  |
