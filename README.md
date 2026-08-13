@@ -15,6 +15,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
+| [0475-heaters](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
@@ -79,6 +80,7 @@
 | [0344-reverse-string](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0475-heaters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
@@ -95,6 +97,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
+| [0475-heaters](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0475-heaters) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -102,6 +105,7 @@
 | [0049-group-anagrams](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/hafsaabdulwahid565/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
