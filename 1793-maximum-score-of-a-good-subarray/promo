@@ -1,0 +1,12 @@
+num_i,num_q=map(int,input().split())
+price_i=list(map(int,input().split()))
+price_i.sort(reverse=True)
+n= len(price_i)
+prefix=[0]*(n+1)
+for i in range(n):
+    prefix[i + 1] = prefix[i] + price_i[i]
+for i in range(num_q):
+    x,y=map(int,input().split())
+    answer =prefix[x]-prefix[x-y]
+
+    print(answer)
